@@ -14,5 +14,5 @@
 * Ability to organize files in folders
 * Clean UI/UX design
 * OAuth2
-* Usage of Vue - *** NEW ***
+* Usage of Vue - **NEW**
 * Clear and usable APIs - **NEW**
