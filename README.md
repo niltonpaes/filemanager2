@@ -16,6 +16,5 @@
 * OAuth2
 * Usage of Vue - **NEW**
 * Clear and usable APIs - **NEW**
-
 Some API Call examples : https://github.com/niltonpaes/filemanager2/blob/master/FileManager.postman_collection.json
 
